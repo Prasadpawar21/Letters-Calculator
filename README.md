@@ -1,16 +1,9 @@
-# React + Vite
+Description : Build a Simple Todos app by applying the concepts by applying the concepts of react js such as "functional" and "class" Componets , react states (controlled and uncontrolled) ,basics of javascript , HTML/CSS , etc . image
+<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/6fef65d3-e3e6-473f-a1bc-66b3cd41d042" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Functionality : The app has the following functionalities -
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+When a non-empty value is provided in the input, then the count of letters provided are displayed
 
-## React Compiler
-
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployement : https://prasad509.ccbp.tech/
